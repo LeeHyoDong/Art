@@ -1,5 +1,5 @@
 title = "My cool new Blog"
-baseURL = "https://example.com"
+baseURL = "https://leehyodong.github.io/IT-Art/"
 theme = "bilberry-hugo-theme"
 publishDir = "docs"
 enableRobotsTXT = true
