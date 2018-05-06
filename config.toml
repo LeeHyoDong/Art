@@ -1,5 +1,4 @@
 title = "IT is Art"
-subtitle = "Hi"
 baseURL = "https://leehyodong.github.io/IT-Art/"
 theme = "bilberry-hugo-theme"
 publishDir = "docs"
@@ -44,7 +43,7 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Hi! This is the most epic subtitle."
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
