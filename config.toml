@@ -1,4 +1,4 @@
-title = "My cool new Blog"
+title = "IT is Art"
 baseURL = "https://leehyodong.github.io/IT-Art/"
 theme = "bilberry-hugo-theme"
 publishDir = "docs"
