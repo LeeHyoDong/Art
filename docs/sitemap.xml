@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://leehyodong.github.io/IT-Art/post/first-post/</loc>
-    <lastmod>2018-05-05T08:44:31+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://leehyodong.github.io/IT-Art/author/</loc>
     <priority>0</priority>
   </url>
@@ -19,13 +14,6 @@
   
   <url>
     <loc>https://leehyodong.github.io/IT-Art/</loc>
-    <lastmod>2018-05-05T08:44:31+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leehyodong.github.io/IT-Art/post/</loc>
-    <lastmod>2018-05-05T08:44:31+09:00</lastmod>
     <priority>0</priority>
   </url>
   
