@@ -1,5 +1,5 @@
 title = "IT is Art"
-baseURL = "https://leehyodong.github.io/IT-Art/"
+baseURL = "https://leehyodong.github.io/Art/"
 theme = "bilberry-hugo-theme"
 publishDir = "docs"
 enableRobotsTXT = true
