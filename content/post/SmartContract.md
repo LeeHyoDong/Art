@@ -15,11 +15,11 @@ draft: false
 닉 자보는 스마트 계약을 "계약에 필요한 요소를 코드를 통해 스스로 실행되게 하는 전산화된 거래 약속"이라 정의했다.
 
 
-![basic.png](https://cdn-images-1.medium.com/max/800/1*u_nTAOECEr3Dc1vh6NINIg.png)
+![basic.png](https://cdn-images-1.medium.com/max/800/1*u_nTA0ECEr3Dc1vh6NINIg.png)
 
-![smart.png](https://cdn-images-1.medium.com/max/800/1*VTzYHtsVJMhrOOwgLuS-KQ.png)
+![smart.png](https://cdn-images-1.medium.com/max/800/1*VTzYHtsVJMhrOOwgLuS-kQ.png)
 
-![data.png](https://cdn-images-1.medium.com/max/800/1*bbJFbIf4ZJPvhGGVoHY8OA.png)
+![data.png](https://cdn-images-1.medium.com/max/800/1*bbJFbIf4ZJPvhGGVoHY80A.png)
 
 1996년 스마트 계약 설계의 기본원칙으로  관측 가능성(Observability), 검증 가능성(Verifiability), 사생활 보호(privity), 
 강제 가능성(Enforceability) 4가지를 제시했다.
