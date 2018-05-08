@@ -13,9 +13,9 @@ draft: false
 
 1994년 암호학자이자 프로그래머인 닉 자보라는 분이 세상에 개념을 처음 선보였다.
 닉 자보는 스마트 계약을 "계약에 필요한 요소를 코드를 통해 스스로 실행되게 하는 전산화된 거래 약속"이라 정의했다.
-![Basic.png](https://cdn-images-1.medium.com/max/800/1*u_nTA0ECEr3Dc1vh6NlNlg.png)
-![Smart.png](https://cdn-images-1.medium.com/max/800/1*VTzYHtsVJMhrOOwgLuS-kQ.png)
-![Data.png](https://cdn-images-1.medium.com/max/800/1*bbJFblf4ZJPvhGGVoHY80A.png)
+![Basic.png](https://cdn-images-1.medium.com/max/800/1*u_nTA0ECEr3Dc1vh6NlNlg.png){: width="100%" height="100%"}
+![Smart.png](https://cdn-images-1.medium.com/max/800/1*VTzYHtsVJMhrOOwgLuS-kQ.png){: width="100%" height="100%"}
+![Data.png](https://cdn-images-1.medium.com/max/800/1*bbJFblf4ZJPvhGGVoHY80A.png){: width="100%" heigth="100%"}
 1996년 스마트 계약 설계의 기본원칙으로  관측 가능성(Observability), 검증 가능성(Verifiability), 사생활 보호(privity), 
 강제 가능성(Enforceability) 4가지를 제시했다.
 
